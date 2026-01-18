@@ -1,102 +1,145 @@
-_Language:_ [中文](https://github.com/gege-circle/.github) | **English** | [日本語](./README_JA.md)
+<div align="center">
 
-## Welcome to Gege Circle!
-When you open this repository, you'll see the logo of **Gege Circle** ↓
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&weight=800&size=34&duration=3000&pause=1000&color=B701D2&center=true&width=435&lines=Hi+There!%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+Github;I'm+Andrei+Costa!)](https://git.io/typing-svg)
 
-<div align=center>
-<img src="https://i0.hdslb.com/bfs/article/22734484a61a1476ceddc8077468ee4e399908610.png" width="50%"/>
 </div>
 
-<div align=center>
-<code>This image is provided under the Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0) license and are used in accordance with the license.</code>
-</div>
- 
-Congratulations! Seeing this logo means you've officially become a **Getuanzi**!
-
-**Welcome to our big family filled with love and hope**!
-
-<div align=center>
-<img src="https://i0.hdslb.com/bfs/article/4adb9255ada5b97061e610b682b8636764fe50ed.png" width="25%"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6dc47e33-3f2e-4f39-84ce-a35ed10592a6" alt="Profile Animation" width="300" height="300">
 </div>
 
-<div align=center>
-<blockquote><b>「Create more joy with everyone, and change the world together.」</b></blockquote>
+### 🚀 Sobre Mim
+
+Olá! Eu me chamo **Andrei Costa**. Sou **Bacharel em Ciência da Computação** e apaixonado por resolver problemas complexos através do código. Atualmente, estou focado em aprofundar meus conhecimentos no ecossistema Python, explorando as fronteiras da Inteligência Artificial e da Segurança da Informação.
+
+<div align="center">
+
+> "Aprender é como remar contra a correnteza: se parar, a correnteza o leva de volta."
+> — Benjamin Franklin
+
 </div>
 
-Gege Circle (​戈戈圈) is a creative project originating from Hainan, China, officially launched by Wang Ge's younger sister on July 14, 2018. It encompasses diverse creative artworks including illustrations, novels, music, and more.
+---
 
-Current Members of Gege Circle:
 
-![Contributors](https://contrib.rocks/image?repo=gege-circle/home)
 
-Supporters of Gege Circle and this project are called **"Getuanzi"** (​戈团子).
 
-The term "Getuanzi" originated from a giant panda named "Tuanzi" (团子) born in 2015, it also refers to a Japanese dumpling - Dango (団子), both symbolizing reunion, unity, friendship, and collective aspirations. We officially adopted "Getuanzi" as the fanbase name in early 2021.
 
-**If you're interested in Gege Circle, feel free to join us (σ≧▽≦)σ!**
+## 📌 Índice
 
-<div align=center>
-<img src="https://i0.hdslb.com/bfs/article/4adb9255ada5b97061e610b682b8636764fe50ed.png" width="25%"/>
+- [🌐 Sobre Mim](#-sobre-mim)
+- [🚀 Foco Atual](#-foco-atual)
+- [🛠️ Tecnologias](#%EF%B8%8F-tecnologias)
+- [📈 Estatísticas](#-estatísticas)
+- [🤝 Contato](#-contato)
+- [🐍 Snake Game](#-snake-game)
+
+---
+
+
+
+
+
+## 🌐 Sobre Mim
+
+- 🌍 **Localização:** Paraná, Brazil 🇧🇷
+- 🎓 **Graduação:** Bacharel em Ciência da Computação pela [UEM](https://www.uem.br/)
+- 💼 **Atuação:** Desenvolvedor Autônomo (Python / IA / Gráficos)
+- 🛡️ **Interesses:** Cibersegurança e Computação Gráfica aplicada.
+
+## 🚀 Foco Atual (Estudos & Projetos)
+
+Atualmente estou imerso no ecossistema **Python**, desenvolvendo projetos de **IA e Machine Learning**, além de explorar **C++** para Computação Gráfica e Shaders. Se você busca colaboração nestas áreas, está no lugar certo!
+
+---
+
+## 🛠️ Tecnologias
+
+### 🧠 Inteligência Artificial & Data Science (Foco)
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </div>
 
-Since Wang Ge's previous videos did not provide detailed information about this project and contained ambiguous descriptions, we have created this repository to formally introduce **Gege Circle** in written form.
+<br>
 
-Gege Circle established on July 14, 2018, has always adhered to principles of inclusivity, openness, harmony, and kindness. We are fully aware of our responsibilities and mission, consistently respecting social ethics, strictly complying with laws and regulations, and actively contributing to maintaining social stability and public interests.
-
-Therefore, **we prohibit any individuals or organizations from posting inappropriate remarks under the name of "Gege Circle"** on online websites or in real life. **We also firmly oppose excessive promotion of Gege Circle**, including but not limited to **mentioning Gege Circle or its members in danmu, comment, or any other form within videos unrelated to the project**.
-
-While we understand that mentions of Gege Circle in unrelated videos might stem from unintentional enthusiasm, **such behavior causes trouble** for creators and viewers of those unrelated videos. Additionally, Gege Circle itself has faced significant backlash due to these incidents.
-
-As members of Gege Circle, we **kindly ask for your cooperation**:
-
-If you encounter danmu and comments mentioning Gege Circle in unrelated videos, please **report** them to have such danmu and comments removed.
-
-**"Unrelated to Gege Circle" refers to content neither produced by Gege Circle/our project members nor directly mentioning Gege Circle**. When seeing people mentioning Gege Circle in unrelated videos, let's all report them - **don't argue, just report**.
-
-Don't respond to those randomly spamming Gege Circle either. If one spam comment gets flooded with 99 "stop spamming" replies, it creates another problematic scenario. So just silently click report! Quietly, quietly click report! **No engagement, no disputes**!
-
-If anyone says "why can't I spam Gege Circle", send them this repository saying "**this is why Gege Circle prohibits spamming**". If they want to argue, tell them to come debate with us!
-
-If random Gege Circle spamming persists, **we'll keep emphasizing this**. We'll emphasize it endlessly. please work with **us to eliminate this spamming phenomenon** - we beg you all, sincerely, PLEASE!
-
-So...
-
-<div align=center>
-<img src="https://i0.hdslb.com/bfs/new_dyn/a96d87c79af50833045ba79e4f3c2403291584196.png" width="100%"/>
+### 🎮 Game Dev & Computação Gráfica
+<div>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal" />
+  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
+  <img src="https://img.shields.io/badge/CryEngine-242424?style=for-the-badge&logo=cryengine&logoColor=white" alt="CryEngine" />
+  <br>
+  <img src="https://img.shields.io/badge/C%23_for_Unity-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="GDScript" />
+  
+  <br>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/SketchUp-005F98?style=for-the-badge&logo=sketchup&logoColor=white" alt="SketchUp" />
+  <img src="https://img.shields.io/badge/3ds_Max-ED1C24?style=for-the-badge&logo=autodesk&logoColor=white" alt="3ds Max" />
+  <br>
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" />
 </div>
 
-Note: If you've previously mentioned Gege Circle in unrelated videos, no worries – starting now, let's join forces to eliminate this behavior. **Just click report with us! PLEASE**!
+<br>
 
-<div align=center>
-<img src="https://i0.hdslb.com/bfs/article/4adb9255ada5b97061e610b682b8636764fe50ed.png" width="25%"/>
+### 🌐 Desenvolvimento Web
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 </div>
 
-At the end of this repository, let's whisper an open secret we all know~
+<br>
 
-In truth, Gege Circle has always regarded you all as dear friends or closest siblings, sharing every fleeting moment together~
+<details>
+  <summary><b>📂 Outras Ferramentas & Backend</b></summary>
+  <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Shell Script" alt="Shell Script" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+</details>
 
-To us, each of you is a unique, vibrant individual, carrying rich life stories and emotional tides - laughter, sorrow, anger, frustration. These raw, tender feelings transform you from mere digital presences into treasured companions. It is this shared resonance and understanding that binds us, walking forward hand in hand.
+---
 
-Similarly, we yearn to become that friend in your hearts - the one you can confide in at any time, sharing both joys and sorrows. Whether bursting with happiness or weighed down by tears, remember: **Gege Circle and we are always here**. We may not reply instantly, but our care and presence remain constant - **we are here, always**~
+## 📈 Estatísticas
 
-These words might feel more fitting for a special occasion, but since they surge from our hearts now, we couldn't wait to tell you. After all, sincerity warms the soul, no matter when it's spoken.
+<div align="center">
 
-Finally, let's make an eternal promise! To be forever friends—however long "forever" stretches - we vow to stand by you, offering support and companionship whenever needed.  
+[![Streak](https://github-readme-streak-stats-steel-one.vercel.app?user=NullCipherr&theme=monokai&hide_border=true&border_radius=15)](https://git.io/streak-stats)
 
-**This gratitude shall forever dwell in our hearts!** 💖  
+</div>
 
-## Where are the issues?
-Given that this repository has remained inactive for an extended period and the discussion feature has now been migrated to the Reddit sub r/gege_circle, we have decided to switch it off, not by GitHub or others.
+---
 
-For further discussions, please visit our Reddit sub **[r/gege_circle](https://reddit.com/r/gege_circle)**.
+## 🤝 Contato
 
-Thank you for your unwavering care and support toward Gege circle.  
+Para parcerias em IA ou projetos de Segurança, conecte-se comigo:
 
-## Regarding the issue with this repository
-We noticed that some GitHub users have feedback to us that about of this repository contains many unrelated keywords, which causes it to be frequently misassociated in GitHub search results.
+<a href="https://www.linkedin.com/in/rvdonkey" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-These keywords were not added by us. We attempted to update the repository about, but GitHub rejected our changes.
+---
 
-We suspect this may be a GitHub bug, and we have already reported the issue to the GitHub team.
+## 🐍 Contribuições
 
-We sincerely apologize for the poor experience this has caused.
+<div align="center">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/NullCipherr/NullCipherr/output/github-contribution-grid-snake-dark.svg" />
+</div>
+<div align="center">
+  <sub>Feito com  por Andrei Costa</sub>
+</div>
