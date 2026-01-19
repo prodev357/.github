@@ -1,6 +1,6 @@
 <div align="center">
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&weight=800&size=34&duration=3000&pause=1000&color=B701D2&center=true&width=435&lines=Hi+There!%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+Github;I'm+Andrei+Costa!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&weight=800&size=34&duration=3000&pause=1000&color=B701D2&center=true&width=435&lines=Hi+There!%F0%9F%91%8B;Senior+Full+Stack+Developer;I'm+Christopher+Gore!)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,138 +8,114 @@
   <img src="https://github.com/user-attachments/assets/6dc47e33-3f2e-4f39-84ce-a35ed10592a6" alt="Profile Animation" width="300" height="300">
 </div>
 
-### 🚀 Sobre Mim
+### 🚀 About Me
 
-Olá! Eu me chamo **Andrei Costa**. Sou **Bacharel em Ciência da Computação** e apaixonado por resolver problemas complexos através do código. Atualmente, estou focado em aprofundar meus conhecimentos no ecossistema Python, explorando as fronteiras da Inteligência Artificial e da Segurança da Informação.
+Hi! I'm **Christopher Gore**, a **Senior Full Stack Developer** with **10+ years of experience** building secure, high-performance web applications using **Angular, React, .NET Core, C#, Node.js, and Python**. I specialize in modernizing legacy systems, architecting cloud-native SaaS platforms, and delivering measurable business impact through clean code and scalable architecture.
 
 <div align="center">
 
-> "Aprender é como remar contra a correnteza: se parar, a correnteza o leva de volta."
-> — Benjamin Franklin
-
+> "The best code is not just functional, it’s maintainable, performant, and aligned with business goals."
+> : Christopher Gore
 </div>
 
 ---
 
+## 🌐 About Me
 
+- 📍 **Location:** Chicago, IL, United States 🇺🇸  
+- 🎓 **Education:** B.S. in Computer Science, Harold Washington College (2016–2018)  
+- 💼 **Role:** Senior Full Stack Developer  
+- 🛠️ **Specialization:** Cloud-native SaaS, Legacy Modernization, Microservices, CI/CD  
 
+## 💼 Professional Experience
 
+### 🏢 **Simform** — *Senior Full Stack Developer* (May 2024 – Present) | Orlando, FL  
+- Architected a cloud-native farm intelligence platform using **Angular 16, .NET 7, and Python/Django**, reducing data latency by **60%** for 200+ enterprise clients.  
+- Led migration from monolithic .NET Framework to **Dockerized microservices** (.NET Core + Node.js), cutting **Azure costs by 25%**.  
+- Built real-time telemetry dashboard with **React, SignalR, and WebSockets**, processing **10,000+ sensor events/hour**.  
 
-## 📌 Índice
+### 🏢 **AptlyLabs Inc** — *Full Stack Developer* (Mar 2022 – Dec 2023) | Chicago, IL  
+- Developed **React and .NET Core SaaS applications** for healthcare logistics with **RBAC, audit logging, and JWT/OAuth 2.0**.  
+- Achieved **99.95% uptime** and **<200ms response time** for 10K+ monthly users using **PostgreSQL and Redis**.  
+- Drove test coverage from **35% to 80%** using **xUnit, Jest, and Cypress** via TDD.  
 
-- [🌐 Sobre Mim](#-sobre-mim)
-- [🚀 Foco Atual](#-foco-atual)
-- [🛠️ Tecnologias](#%EF%B8%8F-tecnologias)
-- [📈 Estatísticas](#-estatísticas)
-- [🤝 Contato](#-contato)
-- [🐍 Snake Game](#-snake-game)
+### 🏢 **Bluelight** — *Software Engineer* (Jan 2020 – Dec 2021) | Sacramento, CA  
+- Refactored legacy **ASP.NET MVC UIs to React**, reducing UI-related bug reports by **40%**.  
+- Automated reporting pipelines using **Python (Pandas, Flask)**, saving **8+ hours/week** in manual work.  
 
----
-
-
-
-
-
-## 🌐 Sobre Mim
-
-- 🌍 **Localização:** Paraná, Brazil 🇧🇷
-- 🎓 **Graduação:** Bacharel em Ciência da Computação pela [UEM](https://www.uem.br/)
-- 💼 **Atuação:** Desenvolvedor Autônomo (Python / IA / Gráficos)
-- 🛡️ **Interesses:** Cibersegurança e Computação Gráfica aplicada.
-
-## 🚀 Foco Atual (Estudos & Projetos)
-
-Atualmente estou imerso no ecossistema **Python**, desenvolvendo projetos de **IA e Machine Learning**, além de explorar **C++** para Computação Gráfica e Shaders. Se você busca colaboração nestas áreas, está no lugar certo!
+### 🏢 **Stanislaus Tech Innovations** — *Junior Web Developer* (Feb 2019 – Dec 2019) | Turlock, CA  
+- Built internal tools with **ASP.NET Web Forms, SQL Server, and Python/Flask**.  
+- Converted to full-time role after graduation based on performance.  
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
-### 🧠 Inteligência Artificial & Data Science (Foco)
+### 🖥️ Frontend
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</div>
-
-<br>
-
-### 🎮 Game Dev & Computação Gráfica
-<div>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal" />
-  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
-  <img src="https://img.shields.io/badge/CryEngine-242424?style=for-the-badge&logo=cryengine&logoColor=white" alt="CryEngine" />
-  <br>
-  <img src="https://img.shields.io/badge/C%23_for_Unity-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="GDScript" />
-  
-  <br>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-  <img src="https://img.shields.io/badge/SketchUp-005F98?style=for-the-badge&logo=sketchup&logoColor=white" alt="SketchUp" />
-  <img src="https://img.shields.io/badge/3ds_Max-ED1C24?style=for-the-badge&logo=autodesk&logoColor=white" alt="3ds Max" />
-  <br>
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" />
-</div>
-
-<br>
-
-### 🌐 Desenvolvimento Web
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
 </div>
 
 <br>
 
-<details>
-  <summary><b>📂 Outras Ferramentas & Backend</b></summary>
-  <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Shell Script" alt="Shell Script" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-</details>
+### ⚙️ Backend & APIs
+<div>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+</div>
 
----
+<br>
 
-## 📈 Estatísticas
+### ☁️ Cloud & DevOps
+<div>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+</div>
 
-<div align="center">
+<br>
 
-[![Streak](https://github-readme-streak-stats-steel-one.vercel.app?user=NullCipherr&theme=monokai&hide_border=true&border_radius=15)](https://git.io/streak-stats)
-
+### 🗄️ Databases & Architecture
+<div>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge" alt="Microservices" />
+  <img src="https://img.shields.io/badge/CQRS-000000?style=for-the-badge" alt="CQRS" />
+  <img src="https://img.shields.io/badge/Event_Driven-000000?style=for-the-badge" alt="Event-Driven" />
 </div>
 
 ---
 
-## 🤝 Contato
+## 🤝 Contact
 
-Para parcerias em IA ou projetos de Segurança, conecte-se comigo:
+Open to **senior full-stack roles**, **technical leadership**, and **cloud architecture opportunities**.
 
-<a href="https://www.linkedin.com/in/rvdonkey" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="mailto:christophergore921@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://www.linkedin.com/in/christopher-gore-47034434b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/prodev357" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 ---
 
-## 🐍 Contribuições
-
 <div align="center">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/NullCipherr/NullCipherr/output/github-contribution-grid-snake-dark.svg" />
-</div>
-<div align="center">
-  <sub>Feito com  por Andrei Costa</sub>
+  <sub>Made with ❤️ by Christopher Gore</sub>
 </div>
