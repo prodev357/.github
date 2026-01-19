@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Hi! I'm **Christopher Gore**, a **Senior Full Stack Developer** with **10+ years of experience** building secure, high-performance web applications using **Angular, React, .NET Core, C#, Node.js, and Python**. I specialize in modernizing legacy systems, architecting cloud-native SaaS platforms, and delivering measurable business impact through clean code and scalable architecture.
+Hi! I'm **Christopher Gore**, a **SeniorFullStackDeveloper** with **10+ years of experience** building secure, high-performance web applications using **Angular, React, .NET Core, C#, Node.js, and Python**. I specialize in modernizing legacy systems, architecting cloud-native SaaS platforms, and delivering measurable business impact through clean code and scalable architecture.
 
 <div align="center">
 
