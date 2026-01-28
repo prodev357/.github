@@ -42,9 +42,14 @@ Hi! I'm **Christopher Gore**, a **SeniorFullStackDeveloper** with **10+ years of
 - Refactored legacy **ASP.NET MVC UIs to React**, reducing UI-related bug reports by **40%**.  
 - Automated reporting pipelines using **Python (Pandas, Flask)**, saving **8+ hours/week** in manual work.  
 
-### 🏢 **Stanislaus Tech Innovations** — *Web Developer* (Feb 2019 – Dec 2019) | Turlock, CA  
+### 🏢 **Chicago Tech Innovations** — *Web Developer* (Feb 2019 – Dec 2019) | Chicago, IL
 - Built internal tools with **ASP.NET Web Forms, SQL Server, and Python/Flask**.  
-- Converted to full-time role after graduation based on performance.  
+- Converted to full-time role after graduation based on performance.
+
+### 🏢 **Chicago Tech  Group** — *Software Development Intern* (Oct 2016 – Nov 2018) | Chicago, IL
+- Built prototype utilities for HR and operations using **C#, ASP.NET⁠, and SQL Server**.  
+- Learned Git, Agile sprint cycles, and requirement translation in a professional dev environment.
+
 
 ---
 
