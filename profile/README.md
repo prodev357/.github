@@ -25,11 +25,10 @@ Hi! I'm **Christopher Gore**, a **SeniorFullStackDeveloper** with **10+ years of
 - 📍 **Location:** Chicago, IL, United States 🇺🇸  
 - 🎓 **Education:** B.S. in Computer Science, Harold Washington College (2016–2018)  
 - 💼 **Role:** Senior Full Stack Developer  
-- 🛠️ **Specialization:** Cloud-native SaaS, Legacy Modernization, Microservices, CI/CD  
 
 ## 💼 Professional Experience
 
-### 🏢 **Simform** — *Senior Full Stack Developer* (May 2024 – Present) | Orlando, FL  
+### 🏢 **Simform** — *Senior Full Stack Developer* (May 2024 – Dec 2025) | Orlando, FL  
 - Architected a cloud-native farm intelligence platform using **Angular 16, .NET 7, and Python/Django**, reducing data latency by **60%** for 200+ enterprise clients.  
 - Led migration from monolithic .NET Framework to **Dockerized microservices** (.NET Core + Node.js), cutting **Azure costs by 25%**.  
 - Built real-time telemetry dashboard with **React, SignalR, and WebSockets**, processing **10,000+ sensor events/hour**.  
