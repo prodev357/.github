@@ -14,7 +14,7 @@ Hi! I'm **Christopher Gore**, a **SeniorFullStackDeveloper** with **10+ years of
 
 <div align="center">
 
-> "The best code is not just functional, it’s maintainable, performant, and aligned with business goals."
+> "The best code is not just functional, it’s maintainable, performant, and aligned with business goals."f
 > : Christopher Gore
 </div>
 
@@ -42,7 +42,7 @@ Hi! I'm **Christopher Gore**, a **SeniorFullStackDeveloper** with **10+ years of
 - Refactored legacy **ASP.NET MVC UIs to React**, reducing UI-related bug reports by **40%**.  
 - Automated reporting pipelines using **Python (Pandas, Flask)**, saving **8+ hours/week** in manual work.  
 
-### 🏢 **Stanislaus Tech Innovations** — *Junior Web Developer* (Feb 2019 – Dec 2019) | Turlock, CA  
+### 🏢 **Stanislaus Tech Innovations** — *Web Developer* (Feb 2019 – Dec 2019) | Turlock, CA  
 - Built internal tools with **ASP.NET Web Forms, SQL Server, and Python/Flask**.  
 - Converted to full-time role after graduation based on performance.  
 
