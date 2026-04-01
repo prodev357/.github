@@ -1,6 +1,6 @@
 <div align="center">
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&weight=800&size=34&duration=3000&pause=1000&color=B701D2&center=true&width=435&lines=Hi+There!%F0%9F%91%8B;Senior+Full+Stack+Developer;I'm+Christopher+Gore!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&weight=800&size=34&duration=3000&pause=1000&color=B701D2&center=true&width=435&lines=Hi+There!%F0%9F%91%8B;AI+Full+Stack+Engineer;I'm+Hunterj+J+ZACPAL!)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,118 +8,135 @@
   <img src="https://github.com/user-attachments/assets/6dc47e33-3f2e-4f39-84ce-a35ed10592a6" alt="Profile Animation" width="300" height="300">
 </div>
 
+---
+
 ### 🚀 About Me
 
-Hi! I'm **Christopher Gore**, a **SeniorFullStackDeveloper** with **10+ years of experience** building secure, high-performance web applications using **Angular, React, .NET Core, C#, Node.js, and Python**. I specialize in modernizing legacy systems, architecting cloud-native SaaS platforms, and delivering measurable business impact through clean code and scalable architecture.
+Hi! I'm **Hunterj J ZACPAL**, an **AI Full Stack Engineer** with **15+ years of experience** building intelligent, scalable, production-ready applications. I specialize in embedding **LLMs, RAG pipelines, and AI agents** into real-world business workflows to automate operations and improve decision-making.
+
+I design **secure, maintainable, cloud-native architectures** that move beyond prototypes into enterprise-grade software.
 
 <div align="center">
 
-> "The best code is not just functional, it’s maintainable, performant, and aligned with business goals."f
-> : Christopher Gore
+> "Great AI software isn't just smart — it's reliable, scalable, and production-ready."
+> — Hunterj J ZACPAL
+
 </div>
 
 ---
 
-## 🌐 About Me
+## 🌐 Profile
 
-- 📍 **Location:** Chicago, IL, United States 🇺🇸  
-- 🎓 **Education:** B.S. in Computer Science, Harold Washington College (2016–2018)  
-- 💼 **Role:** Senior Full Stack Developer  
+- 📍 **Location:** Las Vegas, NV, United States 🇺🇸  
+- 🎓 **Education:** B.S. Computer Science — University of Nevada, Las Vegas  
+- 💼 **Role:** AI Full Stack Engineer  
+- 🧠 **Focus:** LLMs • RAG • AI Agents • SaaS Platforms  
+
+---
 
 ## 💼 Professional Experience
 
-### 🏢 **Simform** — *Senior Full Stack Developer* (May 2024 – Dec 2025) | Orlando, FL  
-- Architected a cloud-native farm intelligence platform using **Angular 16, .NET 7, and Python/Django**, reducing data latency by **60%** for 200+ enterprise clients.  
-- Led migration from monolithic .NET Framework to **Dockerized microservices** (.NET Core + Node.js), cutting **Azure costs by 25%**.  
-- Built real-time telemetry dashboard with **React, SignalR, and WebSockets**, processing **10,000+ sensor events/hour**.  
+### 🏢 WonderBotz — *Senior AI Full Stack Engineer* (Nov 2022 – Dec 2025)
+- Architected production AI SaaS platforms using **LLMs + RAG**, reducing ticket resolution time by **60%**
+- Built intelligent **AI agents (AutoGen, CrewAI)** for multi-step workflow automation
+- Migrated legacy monoliths to **Node.js + FastAPI microservices**
+- Implemented **Pinecone vector search** for enterprise semantic retrieval
+- Deployed systems on **Azure App Services + AWS Lambda**
 
-### 🏢 **AptlyLabs Inc** — *Full Stack Developer* (Mar 2022 – Dec 2023) | Chicago, IL  
-- Developed **React and .NET Core SaaS applications** for healthcare logistics with **RBAC, audit logging, and JWT/OAuth 2.0**.  
-- Achieved **99.95% uptime** and **<200ms response time** for 10K+ monthly users using **PostgreSQL and Redis**.  
-- Drove test coverage from **35% to 80%** using **xUnit, Jest, and Cypress** via TDD.  
+### 🏢 Inter-Tech — *Full Stack Developer* (May 2020 – Jul 2022)
+- Built scalable apps using **React, Next.js, and .NET Core** (50K+ users)
+- Designed **REST + GraphQL APIs** for unified data platforms
+- Implemented **Docker + Kubernetes CI/CD pipelines**
+- Integrated **payment systems + webhook automation**
 
-### 🏢 **Bluelight** — *Software Engineer* (Jan 2020 – Dec 2021) | Sacramento, CA  
-- Refactored legacy **ASP.NET MVC UIs to React**, reducing UI-related bug reports by **40%**.  
-- Automated reporting pipelines using **Python (Pandas, Flask)**, saving **8+ hours/week** in manual work.  
-
-### 🏢 **Chicago Tech Innovations** — *Web Developer* (Feb 2019 – Dec 2019) | Chicago, IL
-- Built internal tools with **ASP.NET Web Forms, SQL Server, and Python/Flask**.  
-- Converted to full-time role after graduation based on performance.
-
-### 🏢 **Chicago Tech  Group** — *Software Development Intern* (Oct 2016 – Nov 2018) | Chicago, IL
-- Built prototype utilities for HR and operations using **C#, ASP.NET⁠, and SQL Server**.  
-- Learned Git, Agile sprint cycles, and requirement translation in a professional dev environment.
-
+### 🏢 Raster Media — *Software Engineer* (Mar 2017 – Dec 2020)
+- Developed responsive UIs using **TypeScript + Tailwind CSS**
+- Built backend services using **Python Django**
+- Implemented **RabbitMQ async processing**
+- Contributed across full SDLC lifecycle
 
 ---
 
-## 🛠️ Technologies
+## 🧠 AI & Automation
 
-### 🖥️ Frontend
 <div>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AutoGen-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Weaviate-000000?style=for-the-badge"/>
 </div>
 
-<br>
+---
 
-### ⚙️ Backend & APIs
+## 🖥️ Frontend
+
 <div>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux" />
 </div>
 
-<br>
+---
 
-### ☁️ Cloud & DevOps
+## ⚙️ Backend
+
 <div>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet"/>
 </div>
 
-<br>
+---
 
-### 🗄️ Databases & Architecture
+## ☁️ Cloud & DevOps
+
 <div>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge" alt="Microservices" />
-  <img src="https://img.shields.io/badge/CQRS-000000?style=for-the-badge" alt="CQRS" />
-  <img src="https://img.shields.io/badge/Event_Driven-000000?style=for-the-badge" alt="Event-Driven" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform"/>
 </div>
+
+---
+
+## 🚀 Key Projects
+
+### 🔹 Enterprise RAG System
+Secure document intelligence platform using **Azure OpenAI + vector embeddings**
+
+### 🔹 Workflow Automation Engine
+No-code interface for triggering **AI agents via webhooks**
+
+### 🔹 Legacy Modernization Initiative
+Migrated Angular app to **Next.js**, improving load speed by **40%**
 
 ---
 
 ## 🤝 Contact
 
-Open to **senior full-stack roles**, **technical leadership**, and **cloud architecture opportunities**.
+Open to **AI Engineer**, **Senior Full Stack**, and **AI SaaS Architect** roles.
 
-<a href="mailto:christophergore921@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/christopher-gore-47034434b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
-<a href="https://github.com/prodev357" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<a href="https://github.com/" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
 ---
 
 <div align="center">
-  <sub>Made with ❤️ by Christopher Gore</sub>
+  <sub>Made with ❤️ by Hunterj J ZACPAL</sub>
 </div>
